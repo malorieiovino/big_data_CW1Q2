@@ -1,14 +1,20 @@
-# Big Data Coursework Q2: K-means Clustering Analysis
+# K-means Clustering Analysis of Western Classics Dataset
 
-Cluster analysis of Western literary classics dataset using Apache Mahout.
+## Project Overview
+Cluster analysis of 8,613 Western literary classics using Apache Mahout, exploring different distance measures and optimal cluster determination.
 
-## Dataset
-- 8,613 Western literary classics text files
-- Clustering implemented with Euclidean, Manhattan, and Cosine distance measures
+## Distance Measures
+- Cosine Distance
+- Manhattan Distance
+- Euclidean Distance
 
-## Project Structure
+## Repository Structure
 - `scripts/`: Mahout and data processing scripts
 - `analysis/`: Python analysis scripts
-- `docs/`: Project documentation
 - `images/`: Visualization outputs
-- `results/`: Clustering results
+- `results/`: Clustering results and SSE values
+- `data/`: Dataset information
+- `docs/`: Project documentation
+
+## Key Findings
+Explored K-means clustering with varying cluster counts (K=5, 10, 15, 20) to determine optimal clustering configuration.

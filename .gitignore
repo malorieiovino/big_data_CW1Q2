@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Generated files
+*.txt
+*.log
+*.tmp
+*_readable.txt
+*_distances.txt
+
+# Image files
+*.png
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo

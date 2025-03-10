@@ -49,9 +49,9 @@ Performed K-Means clustering using three distance metrics:
 ## 📸 Visualizations
 Elbow graphs for different distance measures:
 
-![Elbow Graph - Cosine](results/elbow_graphs/cosine.png)
-![Elbow Graph - Manhattan](results/elbow_graphs/manhattan.png)
-![Elbow Graph - Euclidean](results/elbow_graphs/euclidean.png)
+![Elbow Graph - Cosine](coselbow.png)
+![Elbow Graph - Manhattan](manelbow.png)
+![Elbow Graph - Euclidean](eucelbow.png)
 
 
 ## 📝 How to Run

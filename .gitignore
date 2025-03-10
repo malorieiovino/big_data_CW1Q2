@@ -1,24 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-
-# Generated files
+# Ignore large text files
 *.txt
-*.log
-*.tmp
-*_readable.txt
-*_distances.txt
+*.csv
 
-# Image files
-*.png
-
-# OS specific
+# Ignore system files
 .DS_Store
 Thumbs.db
 
-# IDE files
+# Ignore IDE files
 .idea/
 .vscode/
-*.swp
-*.swo
+
+# Ignore Python cache
+__pycache__/
+*.pyc

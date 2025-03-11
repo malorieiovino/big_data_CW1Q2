@@ -3,6 +3,14 @@
 ## 📖 Overview
 This repository contains the implementation of **K-Means clustering** using **Apache Mahout** as part of the **Big Data Coursework 1**. The project involves clustering a collection of text documents using different distance measures and evaluating the clustering quality.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Apache Mahout](https://img.shields.io/badge/Apache-Mahout-blue?logo=apache)
+![Hadoop](https://img.shields.io/badge/Apache-Hadoop-orange?logo=apache)
+![Machine Learning](https://img.shields.io/badge/ML-Clustering-blueviolet)
+[![Goldsmiths, University of London](https://img.shields.io/badge/University-Goldsmiths%2C%20UoL-blue)](https://www.gold.ac.uk/)
+[![Degree](https://img.shields.io/badge/Degree-Computational%20Linguistics%20MA-green)](https://www.gold.ac.uk/)
+[![Big Data](https://img.shields.io/badge/Course-Big%20Data%20Analysis-red)](https://www.gold.ac.uk/)
+
 ## 📂 Repository Structure
 ```
 big_data_CW1Q2/
